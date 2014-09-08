@@ -1,0 +1,15 @@
+{
+    "name": "harp-orm/event-listeners",
+    "description": "Simple event listeners with Closures",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Ivan Kerin",
+            "email": "ikerin@gmail.com",
+            "role": "Author"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Harp\\EventListeners\\": "src/"}
+    }
+}
